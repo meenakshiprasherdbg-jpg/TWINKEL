@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    gap : 30px;
+    background-color : white;
+}
+a {
+font-size: 60px;
+text-decoration: none;
+transition: 0.5s;
+}
+.linkedin a {
+    color: #0A66C2;  
+
+}
